@@ -11,6 +11,11 @@ Me chamo Luana Maciel, tenho 25 anos e sou iniciante na área de Tecnologia!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
 
 
+
+### Estou aprendendo sobre
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
+
 <!--
 **luanamaciel/luanamaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
