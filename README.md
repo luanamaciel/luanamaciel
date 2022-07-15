@@ -1,4 +1,6 @@
-### Hello Tech Peoples! 👋
+### Hello, Devs!! 👋
+## Seja Bem Vindo ao meu GitHub!
+
 
 <!--
 **luanamaciel/luanamaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
