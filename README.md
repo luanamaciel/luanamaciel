@@ -3,6 +3,11 @@
 
 Me chamo Luana Maciel, tenho 25 anos e sou iniciante na área de Tecnologia!
 
+Estudo a area desde 2016, com suas idas e vindas ahahha, neste periodo me formei em Design Gráfico e agora retornei aos estudos de tecnologia.
+Atualmente sou acadêmica do curso de Análise e Desenvolvimento de Sistemas.
+
+A linguagem que trabalhamos na faculdade foi a C, a partir de agora entrarei nas materias de Front-end e Back-end usando Java... Estou ansiosa! hehe 
+
 
 
 
